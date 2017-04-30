@@ -1,0 +1,17 @@
+{
+  "name": "benkle/feed-interfaces",
+  "description": "Interfaces and exceptions shared between my feed handling packages",
+  "minimum-stability": "dev",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Benjamin Kleiner",
+      "email": "bizzl@users.sourceforge.net"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Benkle\\FeedInterfaces\\": "src"
+    }
+  },
+}

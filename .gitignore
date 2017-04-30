@@ -1,0 +1,17 @@
+# Created by .ignore support plugin (hsz.mobi)
+.*.kate-swp
+.swp.*
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+.idea/
+*.iws
+/out/
+.idea_modules/
+atlassian-ide-plugin.xml
+com_crashlytics_export_strings.xml
+crashlytics.properties
+crashlytics-build.properties
+fabric.properties
