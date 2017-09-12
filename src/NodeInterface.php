@@ -18,7 +18,10 @@
 
 namespace Benkle\FeedInterfaces;
 
-
+/**
+ * Interface NodeInterface
+ * @package Benkle\FeedInterfaces
+ */
 interface NodeInterface
 {
 
