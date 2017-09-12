@@ -76,11 +76,12 @@ interface RelationLinkInterface
      * Get the relation title.
      * @return string
      */
-    public function getTilte();
+    public function getTitle();
 
     /**
      * Set the relation title.
-     * @return string
+     * @param string $title
+     * @return $this
      */
     public function setTitle($title);
 }
