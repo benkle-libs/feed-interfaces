@@ -31,7 +31,7 @@ namespace Benkle\FeedInterfaces;
  * Interface RelationLinkInterface
  * @package Benkle\FeedInterfaces
  */
-interface RelationLinkInterface
+interface RelationLinkInterface extends NodeInterface
 {
     /**
      * Get the relation url.
